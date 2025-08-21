@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+numpy
+pandas
+sqlalchemy
+psycopg2-binary
+pydantic
+python-dotenv
+optuna
